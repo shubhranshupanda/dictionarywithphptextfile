@@ -1,8 +1,8 @@
 # dictionarywithphptextfile
 
-PHP 7
+PHP 8
 
-MYSQL 5.6
+MYSQL 8
 
 Codeigniter 3
 
