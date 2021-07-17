@@ -7,7 +7,7 @@ MYSQL 5.6
 Codeigniter 3
 
 
-#PROGRAM DETAILS
+# Program Deatils
 
 1. Codeigniter With Mysql to perform Dictionary Search
 2. search any word from the text file for a meaning
